@@ -1,0 +1,258 @@
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ProyectoMuestra.exe.config
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ProyectoMuestra.exe
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ProyectoMuestra.pdb
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Properties.Resources.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.GenerateResource.cache
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.exe
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.pdb
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\MiLibreria.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\MiLibreria.pdb
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.CopyComplete
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Loguin.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.VentanaAdministrador.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.VentanaUsuario.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.ContenedorPri.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.FormBase.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Mantenimiento.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.MantCliente.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.MantProductos.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Consultas.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.ConsultarClientes.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.ConsultarProductos.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Facturación.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ProyectoMuestra.exe.config
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ProyectoMuestra.exe
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ProyectoMuestra.pdb
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\MiLibreria.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\EnvDTE.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\stdole.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\MiLibreria.pdb
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.ConsultarClientes.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.ConsultarProductos.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Consultas.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.ContenedorPri.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Facturación.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.FormBase.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Loguin.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.MantCliente.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Mantenimiento.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.MantProductos.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Properties.Resources.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Reporte.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.VentanaAdministrador.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.VentanaUsuario.resources
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.GenerateResource.cache
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.CopyComplete
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.exe
+C:\Users\user\Downloads\programaç\ProyectoMuestra 19-2\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.pdb
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\EnvDTE.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\stdole.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\programaç\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Reporte.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ProyectoMuestra.exe.config
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ProyectoMuestra.exe
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ProyectoMuestra.pdb
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\MiLibreria.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\EnvDTE.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\stdole.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\MiLibreria.pdb
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.AssemblyReference.cache
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.SuggestedBindingRedirects.cache
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.ConsultarClientes.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.ConsultarProductos.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Consultas.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.ContenedorPri.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Facturación.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.FormBase.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Loguin.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.MantCliente.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Mantenimiento.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.MantProductos.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Properties.Resources.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.Reporte.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.VentanaAdministrador.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.VentanaUsuario.resources
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.GenerateResource.cache
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.csproj.CopyComplete
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.exe
+E:\Proyectos C#\Proyecto Presentacion Curriculum\ProyectoMuestra\ProyectoMuestra\obj\Debug\ProyectoMuestra.pdb
